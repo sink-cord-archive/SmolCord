@@ -3,7 +3,7 @@
     "description": "Make the most of your screen space. Works best with 80% zoom.",
     "version": "1.0.0",
     "author": "Yellowsink#8156",
-    "theme": "smolcord.theme.css",
+    "theme": "smol.theme.css",
     "consent": ["ext_listing"],
     "license": "BSD-3"
 }
