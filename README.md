@@ -5,7 +5,7 @@ Ever think that Discord wastes a lot of space? Yeah, me too.
 SmolCord makes Discord use space more effectively. Works best with 80% zoom. And yes, it improves cozy chat mode if you don’t like the way compact looks.
 
 ## How to use
-### Diskai
+### [Diskai](https://github.com/cainy-a/Diskai)
 SmolCord is included in Diskai. Just go to `_features.scss` and set `$compact: true;`. There, done!  
 If you use Diskai this method is recommended as it integrates nicely with the new user card style (if you have it enabled).
 ### BetterDiscord
